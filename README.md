@@ -26,7 +26,7 @@
 </div>
 
 ### Usage
-- <a href="https://github.com/ahksoft/miuialphalaunchermod/releases">
+- <a href="https://github.com/ahksoft/miuialphalaunchermod/releases/download/v1.0/MiuilauncherModbyAHKsoft.zip">
        Dwonload
     </a>  latest version
 - Flash With Magisk, and Select with volume key what you want to install and reboot.
