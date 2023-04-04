@@ -1,6 +1,12 @@
 <h1 align="center">MiuilauncherMod Created by Abir Hasan AHK using Template (MMT-Ex)</h1>
 
 <div align="center">
+ <!-- Version -->
+    <img src="https://img.shields.io/badge/Version-v1.0-blue.svg?longCache=true&style=popout-square"
+      alt="Version" />
+ <!-- Last Updated -->
+    <img src="https://img.shields.io/badge/Updated-April 4, 2023-green.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
  <!-- Min Magisk -->
     <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
