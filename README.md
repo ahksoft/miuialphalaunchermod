@@ -1,12 +1,8 @@
 <h1 align="center">MiuilauncherMod Created using Template (MMT-Ex)</h1>
 
 <div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v2.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-January 21, 2022-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
+
+    
   <!-- Min Magisk -->
     <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
