@@ -1,4 +1,4 @@
-<h1 align="center">MiuilauncherMod Created using Templat (MMT-Ex)</h1>
+<h1 align="center">MiuilauncherMod Created using Template (MMT-Ex)</h1>
 
 <div align="center">
   <!-- Version -->
@@ -28,5 +28,7 @@
 ### Usage
 - <a href="https://github.com/ahksoft/miuialphalaunchermod/releases/download/v1.0/MiuilauncherModbyAHKsoft.zip">
        Dwonload
-    </a>  latest version
+    </a>  latest version or find out from <a href="https://github.com/ahksoft/miuialphalaunchermod/releases">
+       release.
+    </a> 
 - Flash With Magisk, and Select with volume key what you want to install and reboot.
