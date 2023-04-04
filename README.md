@@ -1,4 +1,4 @@
-<h1 align="center">Magisk Module Created from Template Extended (MMT-Ex)</h1>
+<h1 align="center">MiuilauncherMod Created using Templat (MMT-Ex)</h1>
 
 <div align="center">
   <!-- Version -->
@@ -17,13 +17,16 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Template Source Code
+  <span> | </span>
+    <a href="https://github.com/ahksoft/miuialphalaunchermod/archive/refs/heads/master.zip">
+       Source Code
     </a>
     <span> | </span>
   </h3>
 </div>
 
 ### Usage
-- 
-- 
+- <a href="https://github.com/ahksoft/miuialphalaunchermod/releases">
+       Dwonload
+    </a>
+- Flash With Magisk, and Select with volume key what you want to install and reboot.
