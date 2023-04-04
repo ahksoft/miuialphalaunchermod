@@ -1,9 +1,7 @@
 <h1 align="center">MiuilauncherMod Created using Template (MMT-Ex)</h1>
 
 <div align="center">
-
-    
-  <!-- Min Magisk -->
+ <!-- Min Magisk -->
     <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
 
