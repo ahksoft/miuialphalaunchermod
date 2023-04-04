@@ -1,4 +1,4 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+<h1 align="center">Magisk Module Created from Template Extended (MMT-Ex)</h1>
 
 <div align="center">
   <!-- Version -->
@@ -12,26 +12,18 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. Instructions in the 
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3>
+  miui alpha launcher 4.39.5783 mod built with Magisk Module Template Extended. Extra Features DT2S Gfeed extended layout searchbar with Google search and Google assistant iOS style recents new installation method thanks to MiuiSR Team. You can select if you want to install App Vault China 5.x for new widgets support. In this case latest weather app modded by me to make it work on global roms will be installed too.
 </div>
 
 <div align="center">
   <h3>
     <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
+      Template Source Code
     </a>
     <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
   </h3>
 </div>
 
 ### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+- 
+- 
