@@ -1,4 +1,4 @@
-<h1 align="center">MiuilauncherMod Created using Template (MMT-Ex)</h1>
+<h1 align="center">MiuilauncherMod Created by Abir Hasan AHK using Template (MMT-Ex)</h1>
 
 <div align="center">
  <!-- Min Magisk -->
